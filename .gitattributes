@@ -1,0 +1,7 @@
+# Evitar la conversión automática de caracteres de salto de línea para todos los archivos
+* -text
+
+# Excepciones para archivos específicos
+*.sql text
+*.md text
+*.xml text
