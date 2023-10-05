@@ -5,3 +5,4 @@
 *.sql text
 *.md text
 *.xml text
+*.sql text eol=lf
